@@ -1,2 +1,2 @@
-# Proyecto Máquinas de Turing
+# Automaton
  
